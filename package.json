@@ -1,0 +1,23 @@
+{
+  "name": "animatedtitle",
+  "version": "1.0.0",
+  "description": "First Animation",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-prettier": "^6.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edouardmisset/animatedTitle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edouardmisset/animatedTitle/issues"
+  },
+  "homepage": "https://github.com/edouardmisset/animatedTitle#readme"
+}
